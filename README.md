@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fierylion
-- 👀 I’m interested in Creating an innovative marketing app
-- 🌱 I’m currently learning HTML  & CSS & JAVASCRIPT
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested python.
 - 📫 Reach me on Telegram @fierylion1
 
 <!---
