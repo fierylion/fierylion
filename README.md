@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fierylion
 - 👀 I’m interested python.
-- 📫 Reach me on Telegram @fierylion1
+- 📫 Reach me on Telegram @fierylion_meet
+
 
 <!---
 fierylion/fierylion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
