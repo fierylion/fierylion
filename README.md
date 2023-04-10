@@ -1,15 +1,3 @@
-<div align="left">
-
-### Hi there, I'm [Your Name](https://yourwebsite.com) 👋
-
-🌍 Location: Your City, Country
-
-📫 Reach me at: 
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourName/)](https://www.linkedin.com/in/YourName/) 
-[![Twitter Badge](https://img.shields.io/badge/-YourTwitterHandle-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/YourTwitterHandle)](https://twitter.com/YourTwitterHandle) 
-[![Instagram Badge](https://img.shields.io/badge/-YourInstagramHandle-purple?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/YourInstagramHandle)](https://instagram.com/YourInstagramHandle)
-
-</div>
 
 
 ### Hi there 👋
@@ -20,35 +8,48 @@ I'm `Daniel Mawalla`, a passionate `Full Stack Web Developer and Automation Expe
 - 💬 Ask me about `Python`
 
 ### Tech Stack
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; line-height: 1.6em; color: #444; max-width: 700px; margin: 0 auto;">
+  <h3 style="font-size: 26px; color: #3f51b5; margin-top: 30px;">🐍 Python</h3>
+  <ul style="list-style-type: disc; margin-left: 30px;">
+    <li>Webscraping libraries (mostly use is selenium)</li>
+    <li>Django</li>
+    <li>Flask</li>
+    <li>Automation Libraries</li>
+    <li>Equipped with Data Structures and Algorithms</li>
+    <li>Started learning Machine Learning and AI</li>
+  </ul>
 
-Here are a few technologies I've been working with recently:
+  <h3 style="font-size: 26px; color: #3f51b5; margin-top: 30px;">🌐 Javascript</h3>
+  <ul style="list-style-type: disc; margin-left: 30px;">
+    <li>Express.js</li>
+    <li>three.js</li>
+    <li>React.js</li>
+    <li>Next.js</li>
+    <li>jwt token</li>
+  </ul>
 
-- [Technology 1]
-- [Technology 2]
-- [Technology 3]
+  <h3 style="font-size: 26px; color: #3f51b5; margin-top: 30px;">🗄️ Database</h3>
+  <ul style="list-style-type: disc; margin-left: 30px;">
+    <li>SQL: MySQL, PostgreSQL</li>
+    <li>NoSQL: MongoDB & Mongoose.js, Firebase</li>
+  </ul>
+
+  <h3 style="font-size: 26px; color: #3f51b5; margin-top: 30px;">🛡️ Web Security Libraries</h3>
+
+
+  <h3 style="font-size: 26px; color: #3f51b5; margin-top: 30px;">🚀 Devops</h3>
+ 
+</div>
+
 
 ### Projects
 
 Here are a few projects I've been working on:
 
-- [Project 1](Link to the project)
-- [Project 2](Link to the project)
-- [Project 3](Link to the project)
-
-### Blog Posts
-
-Here are some of my recent blog posts:
-
-- [Blog Post 1](Link to the blog post)
-- [Blog Post 2](Link to the blog post)
-- [Blog Post 3](Link to the blog post)
-
-### GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)
+- JOB-API  (https://github.com/fierylion/JOB-API)
+- DawaFasta-API (https://github.com/fierylion/DawaFasta-API)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=radical)](https://github.com/[Your GitHub Username])
-
+-Python & Javascript
 
